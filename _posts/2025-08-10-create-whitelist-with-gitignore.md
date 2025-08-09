@@ -5,8 +5,6 @@ date: 2025-08-10 04:20:00 +0800
 tags: [".gitignore"]
 ---
 
-# 使用 .gitignore 创建白名单
-
 最近看到了这篇文章 [`.gitignore` is inherently Sisyphean](https://rgbcu.be/blog/gitignore/)
 
 作者讲述了为什么需要一个白名单模式, 因为在多人维护的情况下, 会有源源不断的类似 `.DS_Store`, `.vscode`, `.idea` 之类的玩意加入到项目的 `.gitignore` 文件中, 导致其非常臃肿
