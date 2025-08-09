@@ -1,11 +1,8 @@
 ---
 layout: post
-title: 使用 .gitignore 创建白名单
+title: "使用 .gitignore 创建白名单"
 date: 2025-08-10 04:20
-category: 
-author: 
 tags: [".gitignore"]
-summary: 
 ---
 
 # 使用 .gitignore 创建白名单
