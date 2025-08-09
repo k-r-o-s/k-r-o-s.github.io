@@ -28,7 +28,7 @@ github_username:  k-r-o-s
 markdown: GFM
 
 # Build settings
-theme: minima
+theme: monophase
 # plugins:
 #   - jekyll-feed
 
