@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "使用 .gitignore 创建白名单"
-date: 2025-08-10 04:20
+date: 2025-08-10 04:20:00 +0800
 tags: [".gitignore"]
 ---
 
