@@ -20,3 +20,9 @@ tags: ["jekyll"]
 太特喵无语了
 
 就为这折腾几个小时, `Github Action` 那边无任何报错或者提示
+
+---
+
+几个小时之后，我自己做了一个 VSCode 插件: [Jekyll Post Generator](https://marketplace.visualstudio.com/items?itemName=k-r-o-s.jekyll-post-generator)
+
+再见了 `jekyll-post`

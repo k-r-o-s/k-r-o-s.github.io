@@ -1,0 +1,28 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+--- 
+
+@import "minima";
+
+$base-line-height: 1.6;
+
+hr {
+  margin: 24px 0;
+}
+
+pre,
+code {
+  background-color: hsl(60, 66%, 96%);
+}
+
+pre {
+  padding: 12px;
+}
+
+strong {
+  margin: 0 3px;
+}
+
+.highlighter-rouge .highlight {
+  background: hsl(60, 66%, 96%);
+}
