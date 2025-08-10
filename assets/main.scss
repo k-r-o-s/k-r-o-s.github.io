@@ -6,13 +6,17 @@
 
 $base-line-height: 1.6;
 
+body {
+  background-color: #fcfcf9;
+}
+
 hr {
   margin: 24px 0;
 }
 
 pre,
 code {
-  background-color: hsl(60, 66%, 96%);
+  background-color: hsl(60, 17%, 94%);
 }
 
 pre {
@@ -24,5 +28,5 @@ strong {
 }
 
 .highlighter-rouge .highlight {
-  background: hsl(60, 66%, 96%);
+  background: hsl(60, 17%, 94%);
 }
