@@ -7,7 +7,7 @@ tags: ["yt-dlp", "youtube", "bilibili", "哔哩哔哩", "视频下载"]
 
 ## 为什么使用 yt-dlp
 
-yt-dlp 支持的网站非常多, 可以通过 `yt-dlp --list-extractors` 命令显示出来, 将近两千行
+yt-dlp 是非常强的网站视频下载工具, 支持的网站非常多, 可以通过 `yt-dlp --list-extractors` 命令显示出来, 将近两千行
 除了 youtube, 常见的比如 哔哩哔哩, 抖音, twitter, steam 都支持
 
 非常可靠, 配置好参数之后, 非常稳定, 更新也非常频繁
@@ -17,6 +17,8 @@ yt-dlp 支持的网站非常多, 可以通过 `yt-dlp --list-extractors` 命令�
 或者使用它自己的更新命令: `yt-dlp -U`
 
 ## Yt-dlp 下载参数
+
+yt-dlp 因为功能非常强大, 它的参数浩如烟海, 所以这里整理了一些常用的
 
 ### 1️⃣ 视频 / 音频格式选择
 
@@ -52,6 +54,12 @@ yt-dlp 支持的网站非常多, 可以通过 `yt-dlp --list-extractors` 命令�
 
 * `--embed-chapters`：嵌入章节（前面说过）
 * `--add-metadata`：把视频标题、作者、发布日期等写入文件 metadata
+
+  这个功能非常方便. 一些下载比较旧的视频可能会忘记这个视频是从哪个作者那里下的
+  如果带上这个参数, 下载的视频文件右键 - 属性 - 详细信息, 就能看到它的标题, 原视频地址和 up 名字等信息:
+
+  ![img](img/2025-09-25-usage-of-yt-dlp-20250925120442.png)
+
 * `--embed-thumbnail`：下载封面并嵌入视频 / 音频文件 (作为 独立的元数据 metadata 存放的, 不会影响视频帧)
 * `--write-thumbnail`: 下载封面为单独的图片文件 (通常是 `.jpg`), 下载路径 / 文件名和视频文件一致
 
