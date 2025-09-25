@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "autohotkey v2 dllcall win32 parameter table"
+title: "Autohotkey v2 DllCall 对应 win32 API 的参数类型对照表"
 date: 2025-09-25 08:24:52 +0800
 tags: ["Autohotkey", "Autohotkey v2", "DllCall"]
 ---
