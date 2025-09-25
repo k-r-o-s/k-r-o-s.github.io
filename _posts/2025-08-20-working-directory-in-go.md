@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "golang 中的工作目录"
+title: "Golang 中的工作目录"
 date: 2025-08-20 11:35:27 +0800
 tags: ["go", "golang"]
 ---
 
-## golang 中的工作目录
+## Golang 中的工作目录
 
 “工作目录” 指程序启动时所在的目录
 
