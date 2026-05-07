@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "set language of steam game"
+title: "手动设定 steam 游戏的语言"
 date: 2026-05-07 22:30:17 +0800
 tags: ["Steam", "Game"]
 ---
