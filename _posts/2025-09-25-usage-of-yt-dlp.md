@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yt-dlp 的一些常用下载参数"
+title: "yt-dlp 的一些常用参数"
 date: 2025-09-25 11:15:33 +0800
 tags: ["yt-dlp", "youtube", "bilibili", "哔哩哔哩", "视频下载"]
 ---
